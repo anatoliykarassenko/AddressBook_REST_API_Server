@@ -1,1 +1,8 @@
 django >= 2.1.6, < 3.0 
+django_rest
+psycopg2
+Python 3.7.8
+Visual Studio 2019
+project_env
+PostgreSQL 11
+Windows 10, 64-bit
